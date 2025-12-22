@@ -1,6 +1,10 @@
 <h2 align="left">
-  #👋 Hi, I’m Mishal <br><br>Computer Science undergraduate  
-  <br>Cybersecurity, network security, and IT systems</h2>
+👋 Hi, I’m Mishal <br>
+</h2>
+<p>
+- Computer Science undergraduate<br>  
+- Cybersecurity, network security, and IT systems
+</p>
 
 ###
 
