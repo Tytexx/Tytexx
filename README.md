@@ -9,8 +9,8 @@ and working toward security certifications.
 
 <h3 align="center">Projects</h3>
 
-- 🔍 **[Cryptomining Attack Detection](https://github.com/Tytexx)** — ML-based cryptojacking detector using Random Forest, live system monitoring, and Gemini AI-powered alerts
-- 🛡️ **[Custom SIEM Platform](https://github.com/Tytexx)** — Python SIEM engine with brute force and password spraying detection on Windows event logs  
+- 🔍 **[Cryptomining Attack Detection]([https://github.com/Tytexx](https://github.com/Tytexx/cryptomining-detector))** — ML-based cryptojacking detector using Random Forest, live system monitoring, and Gemini AI-powered alerts
+- 🛡️ **[Custom SIEM Platform]([https://github.com/Tytexx](https://github.com/Tytexx/clearsight-siem))** — Python SIEM engine with brute force and password spraying detection on Windows event logs  
 - 🔁 **[Reverse TCP Mechanisms](https://github.com/Tytexx)** — C&C behavior analysis and defensive controls research
 
 ---
